@@ -1,5 +1,4 @@
-
-name:justice-rivals-autoplay-v5-source.zip
+name: justice-rivals-autoplay-v5-source.zip
 
 on:
   workflow_dispatch:
