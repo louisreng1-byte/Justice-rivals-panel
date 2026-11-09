@@ -1,5 +1,5 @@
 
-name: Build JR3 Floating Panel
+name:justice-rivals-autoplay-v5-source.zip
 
 on:
   workflow_dispatch:
